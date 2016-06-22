@@ -1,0 +1,25 @@
+#text-box {
+	background-color: green;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+#message-box {
+	background-color: blue;
+	color: white;
+	text-align: center;
+	
+}
+#title {
+	width: 30%;
+}
+#message {
+	width: 30%;
+	height: 200px;
+	resize: none;
+}
+.ghost{
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
